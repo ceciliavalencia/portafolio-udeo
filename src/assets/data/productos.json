@@ -2,17 +2,17 @@
     "productos": [
       {
         "id": 1,
-        "nombre": "Papel",
+        "nombre": "Bicileta Vintage",
         "tipo": "papelería",
-        "descripcion": "Son cartas en distintas medidas para mostrar sus proyectos, ideales para mockups previamente crerados. Las hojas poseen envoltura antihumedad prevaleciendo l buenestado de las mismas.",
-        "imagen": "assets/img/project-1.jpg"
+        "descripcion": "Modelo: Elite Hibrida, Rodada: 700. Material: Cuadro de Acero Ligero, fabricado a mano. Transmisión: Rueda Contra Pedal. Eje Central: Sellado.  Acabado: Pintura Electrostática (Powder Coat)  Manubrio: Rise, De Acero Ligero, fabricado a mano.",
+        "imagen": "assets/img/post-6.jpg"
       },
       {
         "id": 2,
         "nombre": "Funda para tablet",
         "tipo": "Electrónicos",
         "descripcion": "Funda para tablet, escelente material.dad extraordinaria, medidass  100x150 y un peso de 230 gramos. Dispone de un sistema de silicona elástica para la sujeción de la tablet por las cuatro esquinas, que además protege esa zona de golpes. El soporte es giratorio para que podamos colocar el dispositivo en la posición que queramos. Una funda duradera y resistente a salpicaduras de agua.",
-        "imagen": "assets/img/project-2.jpg"
+        "imagen": "assets/img/funda.jpeg"
       },
       {
         "id": 3,
@@ -26,21 +26,21 @@
         "nombre": "Diseño vaso para café",
         "tipo": "Diseño",
         "descripcion": "Presentación de vasos para servir café, consulta los distintos modelos que manejamos. Cada vaso está provisto de un revestimiento interior a prueba de fugas y es muy estable y hermético. Todos los vasos de cartón son 100% reciclables",
-        "imagen": "assets/img/project-4.jpg"
+        "imagen": "assets/img/cafe.jpeg"
       },
       {
         "id": 5,
         "nombre": "Tarjetas",
         "tipo": "Papelería",
         "descripcion": "Son tarjetas de presentación, ideales para dar una excelente imagen de ti a tus clientes. Este tipo de tarjetas son especiales para dar una impresión más relajada. Están impresas en papel de alta calidad y brillo estándar para dar una imagen amigable.",
-        "imagen": "assets/img/project-5.jpg"
+        "imagen": "assets/img/tarjetas.png"
       },
       {
         "id": 6,
         "nombre": "T-shirt",
         "tipo": "Ropa",
-        "descripcion": "T-shirt azul, ideal para verano. tela de algodón con excelente calidad.",
-        "imagen": "assets/img/project-6.jpg"
+        "descripcion": "T-shirt de distintos colores, existentes en diversas tallas, ideal para todas las edades, tela de algodón con excelente calidad.",
+        "imagen": "assets/img/project-15.jpg"
       }
     ]
 }
