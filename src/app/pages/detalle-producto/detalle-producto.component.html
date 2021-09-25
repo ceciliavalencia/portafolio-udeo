@@ -1,0 +1,16 @@
+<header class="rk-portfolio-cover">
+    <img [src]="producto.imagen">
+</header>
+
+<div class="ae-container-fluid">
+    <div class="ae-grid ae-grid--collapse rk-portfolio-info ">
+      <div class="ae-grid__item item-lg-8 item-sm--center au-xs-ta-center au-lg-ta-left">
+        <h2 class="rk-portfolio-inner-title "> {{ producto.nombre }} </h2>
+        <small class="ae-theta rk-portfolio-category "> {{ producto.tipo }} </small>
+      </div>
+
+      <div class="ae-grid__item item-lg-8 item-sm--center au-xs-ta-center au-lg-ta-left">
+        <p> {{ producto.descripcion }} </p>
+      </div>
+    </div>
+</div>

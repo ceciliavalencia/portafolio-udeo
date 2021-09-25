@@ -1,0 +1,11 @@
+<section class="ae-container-fluid ae-container-fluid--inner rk-portfolio">
+        <div class="ae-masonry ae-masonry-md-2 ae-masonry-xl-4">
+            <a [routerLink]="['/detalle',producto]" class="rk-item ae-masonry__item" *ngFor="let producto of servicio.info">
+                <img [src]="producto.imagen">
+                <div class="item-meta">
+                    <h2> {{ producto.nombre }} </h2>
+                    <p> {{ producto.tipo }} </p>
+                </div>
+            </a>
+        </div>
+</section>

@@ -1,0 +1,47 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "nombre": "Papel",
+        "tipo": "Branding",
+        "descripcion": "Son cartas en distintas medidas para mostrar un menú",
+        "imagen": "assets/img/project-1.jpg"
+      },
+      {
+        "id": 2,
+        "nombre": "Funda para tablet",
+        "tipo": "Art Direction",
+        "descripcion": "Funda para tablet, escelente material.dad extraordinaria, medidas>  100x150",
+        "imagen": "assets/img/project-2.jpg"
+      },
+      {
+        "id": 3,
+        "nombre": "Papel vegano",
+        "tipo": "Graphic Design",
+        "descripcion": "Hojas de papel veganas, recicladas para contribuir con el medio ambiente",
+        "imagen": "assets/img/project-3.jpg"
+      },
+      {
+        "id": 4,
+        "nombre": "Diseño vaso para café",
+        "tipo": "Packaging",
+        "descripcion": "Presentación de vasos para servir café, consulta los distintos modelos que manejamos",
+        "imagen": "assets/img/project-4.jpg"
+      },
+      {
+        "id": 5,
+        "nombre": "Tarjetas",
+        "tipo": "Branding",
+        "descripcion": "Son tarjetas de presentación, ideales para dar una excelente imagen de ti a tus clientes",
+        "imagen": "assets/img/project-5.jpg"
+      },
+      {
+        "id": 6,
+        "nombre": "T-shirt",
+        "tipo": "Graphic Design",
+        "descripcion": "T-shirt azul, ideal para verano.",
+        "imagen": "assets/img/project-6.jpg"
+      }
+    ]
+}
+  
