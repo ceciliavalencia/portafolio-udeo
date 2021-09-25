@@ -3,8 +3,8 @@
       {
         "id": 1,
         "nombre": "Papel",
-        "tipo": "Branding",
-        "descripcion": "Son cartas en distintas medidas para mostrar un menú",
+        "tipo": "papelería",
+        "descripcion": "Son cartas en distintas medidas para mostrar sus proyectos, ideales para mockups previamente crerados. Las hojas poseen envoltura antihumedad prevaleciendo l buenestado de las mismas.",
         "imagen": "assets/img/project-1.jpg"
       },
       {
@@ -24,21 +24,21 @@
       {
         "id": 4,
         "nombre": "Diseño vaso para café",
-        "tipo": "Packaging",
+        "tipo": "Diseño",
         "descripcion": "Presentación de vasos para servir café, consulta los distintos modelos que manejamos. Cada vaso está provisto de un revestimiento interior a prueba de fugas y es muy estable y hermético. Todos los vasos de cartón son 100% reciclables",
         "imagen": "assets/img/project-4.jpg"
       },
       {
         "id": 5,
         "nombre": "Tarjetas",
-        "tipo": "Branding",
+        "tipo": "Papelería",
         "descripcion": "Son tarjetas de presentación, ideales para dar una excelente imagen de ti a tus clientes. Este tipo de tarjetas son especiales para dar una impresión más relajada. Están impresas en papel de alta calidad y brillo estándar para dar una imagen amigable.",
         "imagen": "assets/img/project-5.jpg"
       },
       {
         "id": 6,
         "nombre": "T-shirt",
-        "tipo": "Graphic Design",
+        "tipo": "Ropa",
         "descripcion": "T-shirt azul, ideal para verano. tela de algodón con excelente calidad.",
         "imagen": "assets/img/project-6.jpg"
       }
