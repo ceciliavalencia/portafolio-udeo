@@ -10,36 +10,36 @@
       {
         "id": 2,
         "nombre": "Funda para tablet",
-        "tipo": "Art Direction",
-        "descripcion": "Funda para tablet, escelente material.dad extraordinaria, medidas>  100x150",
+        "tipo": "Electrónicos",
+        "descripcion": "Funda para tablet, escelente material.dad extraordinaria, medidass  100x150 y un peso de 230 gramos. Dispone de un sistema de silicona elástica para la sujeción de la tablet por las cuatro esquinas, que además protege esa zona de golpes. El soporte es giratorio para que podamos colocar el dispositivo en la posición que queramos. Una funda duradera y resistente a salpicaduras de agua.",
         "imagen": "assets/img/project-2.jpg"
       },
       {
         "id": 3,
-        "nombre": "Papel vegano",
-        "tipo": "Graphic Design",
-        "descripcion": "Hojas de papel veganas, recicladas para contribuir con el medio ambiente",
+        "nombre": "Cuaderno de Seda, Papel vegano",
+        "tipo": "Papelería",
+        "descripcion": "Cuaderno con hojas de papel veganas, recicladas para contribuir con el medio ambiente. Tienes el estilo, tienes la capacidad. ¡Lo único que te falta es un cuaderno de papel de seda! Dale una pincelada de autenticidad a tus apuntes con tus fotos, diseños, imágenes y texto favoritos.",
         "imagen": "assets/img/project-3.jpg"
       },
       {
         "id": 4,
         "nombre": "Diseño vaso para café",
         "tipo": "Packaging",
-        "descripcion": "Presentación de vasos para servir café, consulta los distintos modelos que manejamos",
+        "descripcion": "Presentación de vasos para servir café, consulta los distintos modelos que manejamos. Cada vaso está provisto de un revestimiento interior a prueba de fugas y es muy estable y hermético. Todos los vasos de cartón son 100% reciclables",
         "imagen": "assets/img/project-4.jpg"
       },
       {
         "id": 5,
         "nombre": "Tarjetas",
         "tipo": "Branding",
-        "descripcion": "Son tarjetas de presentación, ideales para dar una excelente imagen de ti a tus clientes",
+        "descripcion": "Son tarjetas de presentación, ideales para dar una excelente imagen de ti a tus clientes. Este tipo de tarjetas son especiales para dar una impresión más relajada. Están impresas en papel de alta calidad y brillo estándar para dar una imagen amigable.",
         "imagen": "assets/img/project-5.jpg"
       },
       {
         "id": 6,
         "nombre": "T-shirt",
         "tipo": "Graphic Design",
-        "descripcion": "T-shirt azul, ideal para verano.",
+        "descripcion": "T-shirt azul, ideal para verano. tela de algodón con excelente calidad.",
         "imagen": "assets/img/project-6.jpg"
       }
     ]
